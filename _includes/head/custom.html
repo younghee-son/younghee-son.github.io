@@ -5,6 +5,23 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
 
+<style>
+  /* Slightly larger base size on laptops and desktops (theme default is 18px) */
+  @media screen and (min-width: 768px)  { html { font-size: 19px; } }
+  @media screen and (min-width: 1280px) { html { font-size: 20px; } }
+
+  /* Sidebar card: bring the small text up, and use the serif throughout */
+  .sidebar .author__name        { font-size: 1.25em; font-family: inherit; }
+  .sidebar .author__bio         { font-size: 0.95em; }
+  .sidebar p, .sidebar li       { font-size: 0.9em; }
+  .author__urls-wrapper,
+  .author__urls a               { font-family: inherit; }
+  .sidebar .author__content     { font-family: inherit; }
+
+  /* Optional: larger, rounder headshot (theme default caps at 175px) */
+  .author__avatar img           { max-width: 190px; }
+</style>
+
 <!-- Support for Academicons -->
 <link rel="preload" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></noscript>
