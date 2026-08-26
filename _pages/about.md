@@ -20,19 +20,19 @@ I am a PhD candidate in Economics at Michigan State University. My research is i
       <strong>Todd Elder</strong> (chair)<br>
       Professor of Economics<br>
       Michigan State University<br>
-      <a href="mailto:telder@msu.edu">EMAIL</a>
+      <a href="mailto:telder@msu.edu">telder@msu.edu</a>
     </td>
     <td style="border: none; vertical-align: top; padding: 8px;">
       <strong>Stacy Dickert-Conlin</strong><br>
       Professor of Economics<br>
       Michigan State University<br>
-      <a href="mailto:dickertc@msu.edu">EMAIL</a>
+      <a href="mailto:dickertc@msu.edu">dickertc@msu.edu</a>
     </td>
     <td style="border: none; vertical-align: top; padding: 8px;">
       <strong>Hanzhe Zhang</strong><br>
       Professor of Economics<br>
       Michigan State University<br>
-      <a href="mailto:hanzhe@msu.edu">EMAIL</a>
+      <a href="mailto:hanzhe@msu.edu">hanzhe@msu.edu</a>
     </td>
   </tr>
 </table>
