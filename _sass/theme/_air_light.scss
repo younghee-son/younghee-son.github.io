@@ -1,28 +1,28 @@
 /* ==========================================================================
-    AIR THEME - LIGHT VERSION
-    ========================================================================== */
+   Air skin — cream background, olive-green accents (after nikhilbasavappa.github.io)
+   Replace the whole of _sass/theme/_air_light.scss with this file.
+   ========================================================================== */
 
 /* Color codes used for the theme */
-$primary-color              : #3d4f21;
+$primary-color              : #3d4f21;                       /* dark olive */
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
-$light-primary-color        : mix(#000, $primary-color, 50%);
-
-$background                 : #f6f2f0;
+$light-primary-color        : mix(#fff, $primary-color, 50%);
+$background                 : #f6f2f0;                       /* cream */
 $background-light           : #f6f2f0;
 $background-lighter         : #f5f5f5;
-$text                       : #222831;
-$link                       : #393e46;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
-$footer                     : #3d4f21;
+$text                       : #333333;
+$link                       : #556b2f;                       /* olive */
+$link-dark                  : #a0522d;                       /* rust, on hover */
+$link-light                 : #6b8e23;                       /* lighter olive, visited */
+$footer                     : $background-light;             /* footer blends into the page */
 
 /* Color codes used for the site */
-$danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
-$notice-color               : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
+$danger-color               : #c44536;
+$info-color                 : #8fbc8f;
+$notice-color               : #9a8c7c;
+$success-color              : #6b8e23;
+$warning-color              : #d4a574;
 
 /* Other basic settings for the template */
 $border-radius              : 4px;
@@ -36,20 +36,47 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Light theme for the site */
 :root {
-    --global-base-color                 : #{$primary-color};
+    --global-base-color                 : #{$background};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$footer};
     --global-border-color               : #{$light-primary-color};
     --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #fafafa;
+    --global-code-background-color      : #{$background-lighter};
     --global-code-text-color            : #{$darker-primary-color};
     --global-fig-caption-color          : #{$light-primary-color};
     --global-link-color                 : #{$link};
     --global-link-color-hover           : #{$link-dark};
     --global-link-color-visited         : #{$link-light};
-    --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$primary-color};
+    --global-masthead-link-color        : #{$primary-color};
+    --global-masthead-link-color-hover  : #{$darker-primary-color};
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-primary-color};
     --global-thead-color                : #{$background-lighter};
+}
+
+/* Footer: same cream as the page, dark text */
+.page__footer {
+    background-color: $background-light !important;
+    color: $text !important;
+}
+.page__footer a {
+    color: $text !important;
+}
+
+/* Top menu: olive text, rust underline on hover */
+.masthead .greedy-nav .visible-links a {
+    color: $primary-color !important;
+    background-color: transparent !important;
+    font-weight: 500 !important;
+    text-decoration: none !important;
+}
+.site-title {
+    color: $primary-color !important;
+    font-weight: 600 !important;
+}
+.masthead .greedy-nav .visible-links a:hover,
+.site-title:hover {
+    color: $darker-primary-color !important;
+    text-decoration: underline !important;
+    text-decoration-color: #a0522d !important;
 }
