@@ -76,7 +76,6 @@ $sidebar-screen-min-width   : 1024px;
 }
 .masthead .greedy-nav .visible-links a:hover,
 .site-title:hover {
-    color: $darker-primary-color !important;
-    text-decoration: underline !important;
-    text-decoration-color: #a0522d !important;
+    color: $link-dark !important;
+}
 }
