@@ -9,6 +9,7 @@ author_profile: true
 
 ### EC 202 — Introduction to Macroeconomics
 **Role:** Teaching Assistant for Prof. John Goddeeris
+
 **Terms:** Fall 2022<br>
 
 ### EC 252H — Macroeconomics and Public Policy
