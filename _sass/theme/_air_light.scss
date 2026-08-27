@@ -4,7 +4,7 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$primary-color              : #3d4f21;                       /* dark olive */
+$primary-color              : #18453B;                       /* spartan green */
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#fff, $primary-color, 50%);
@@ -12,9 +12,9 @@ $background                 : #f6f2f0;                       /* cream */
 $background-light           : #f6f2f0;
 $background-lighter         : #f5f5f5;
 $text                       : #333333;
-$link                       : #556b2f;                       /* olive */
-$link-dark                  : #a0522d;                       /* rust, on hover */
-$link-light                 : #6b8e23;                       /* lighter olive, visited */
+$link                       : #18453B;                       /* green */
+$link-dark                  : #008208;                       /* kelly green, on hover */
+$link-light                 : #7BBD00;                       /* lighter green, visited */
 $footer                     : $background-light;             /* footer blends into the page */
 
 /* Color codes used for the site */
