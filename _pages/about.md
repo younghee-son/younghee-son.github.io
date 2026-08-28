@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Department of Economics at Michigan State University. 
+I am a PhD candidate in the Department of Economics at Michigan State University.<br> 
 **I am currently on the job market in the 2026-27 academic year.**
 
 My research is in applied microeconomics, with a focus on health economics and labor economics.
