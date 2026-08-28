@@ -7,8 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at Michigan State University. My research is in health economics and labor economics, with a focus on . 
-**I am on the 2026-27 job market.**
+I am a PhD candidate in the Department of Economics at Michigan State University. 
+**I am currently on the job market in the 2026-27 academic year. **
+
+My research is in applied microeconomics, with a focus on health economics and labor economics.
+I study how people respond to the incentives that policies and institutions create, using both economic models and empirical methods.
+
+My job market paper examines how transplant candidates respond to changes in their expected access to organs, using a national reform to the U.S. liver allocation system. 
+I’m also interested in using machine learning to measure objects that are often unobserved in the data, like organ quality or job attributes. 
 
 **[CV (PDF)](/files/cv.pdf)** &nbsp;·&nbsp; **[Resume (PDF)](/files/resume.pdf)**
 
