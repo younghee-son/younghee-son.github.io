@@ -14,20 +14,9 @@ author_profile: true
 
 ---
 
-...
-## Working Papers
-
-**Title of Working Paper**<br>
-with [Coauthor Name](https://coauthor-website.edu)<br>
-[Draft](/files/paper2.pdf) · [Slides](/files/slides2.pdf)
-
-> Abstract.
-...
-
----
-
 ## Work in Progress
 
-**Title of Project**<br>
-with Coauthor Name
+**Same Job, Similar Job: The Intergenerational Transmission of Task Content and Skills**<br>
+with Todd Elder
 
+**Regulation-Induced Mergers: Incentives and Outcomes in Organ Procurement**
