@@ -36,7 +36,7 @@ I’m also interested in using machine learning to measure objects that are ofte
     </td>
     <td style="border: none; vertical-align: top; padding: 8px;">
       <strong>Hanzhe Zhang</strong><br>
-      Professor of Economics<br>
+      Associate Professor of Economics<br>
       Michigan State University<br>
       <a href="mailto:hanzhe@msu.edu">hanzhe@msu.edu</a>
     </td>
