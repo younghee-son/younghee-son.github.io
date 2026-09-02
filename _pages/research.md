@@ -14,13 +14,13 @@ author_profile: true
 
 ---
 
-## Working Papers
+%## Working Papers
 
-**Title of Working Paper**<br>
-with [Coauthor Name](https://coauthor-website.edu)<br>
-[Draft](/files/paper2.pdf) · [Slides](/files/slides2.pdf)
+%**Title of Working Paper**<br>
+%with [Coauthor Name](https://coauthor-website.edu)<br>
+%[Draft](/files/paper2.pdf) · [Slides](/files/slides2.pdf)
 
-> Abstract.
+%> Abstract.
 
 ---
 
