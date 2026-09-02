@@ -17,6 +17,5 @@ author_profile: true
 ## Work in Progress
 
 **The Intergenerational Transmission of Task Content and Skills**<br>
-with Todd Elder
 
 **Regulation-Induced Mergers: Incentives and Outcomes in Organ Procurement**
