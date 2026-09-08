@@ -14,9 +14,9 @@ author_profile: true
 **Role:** Teaching Assistant for Prof. Kyoo il Kim<br>**Terms:** Fall 2025
 
 ### EC 821A — Advanced Econometrics I, II
-**Role:** Teaching Assistant for Prof. Jeffrey Wooldridge<br>**Terms:** Fall 2026
+**Role:** Teaching Assistant for Prof. Jeffrey Wooldridge<br>**Terms:** Fall 2026<br>
 
----
+
 
 ## Undergraduate
 
@@ -30,5 +30,5 @@ author_profile: true
 **Role:** Teaching Assistant for Prof. Justin Kirkpatrick<br> **Terms:** Fall 2023<br>
 
 ### EC 480 — Analysis of Labor Markets
-**Role:** Teaching Assistant for Prof. Todd Elder<br>**Terms:** Fall 2024, Fall 2026<br>
+**Role:** Teaching Assistant for Prof. Todd Elder<br>**Terms:** Fall 2024, Fall 2026
 
