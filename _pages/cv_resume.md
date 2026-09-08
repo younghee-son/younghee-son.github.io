@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV/Resume"
+title: "CV / Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -36,7 +36,7 @@ redirect_from:
     </object>
   </section>
   <section aria-labelledby="resume-heading">
-    <h2 id="resume-heading">CV</h2>
+    <h2 id="resume-heading">Resume</h2>
     <p><a href="{{ '/files/resume.pdf' | relative_url }}" download>Download resume (PDF)</a></p>
     <object data="{{ '/files/resume.pdf' | relative_url }}#view=FitH" type="application/pdf" aria-label="resume PDF preview">
       <p>Your browser can't display PDFs inline. <a href="{{ '/files/resume.pdf' | relative_url }}">Open the resume (PDF)</a>.</p>
