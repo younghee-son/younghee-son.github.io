@@ -13,7 +13,7 @@ author_profile: true
 ### EC 820A — Econometrics IA
 **Role:** Teaching Assistant for Prof. Kyoo il Kim<br>**Terms:** Fall 2025
 
-### EC 821A — Advanced Econometrics I
+### EC 821A — Advanced Econometrics I, II
 **Role:** Teaching Assistant for Prof. Jeffrey Wooldridge<br>**Terms:** Fall 2026
 
 ---
