@@ -5,6 +5,19 @@ layout: single
 author_profile: true
 ---
 
+## Graduate
+
+### EC 812B — Microeconomics II
+**Role:** Teaching Assistant for Prof. Hanzhe Zhang<br>**Terms:** Spring 2024
+
+### EC 820A — Econometrics IA
+**Role:** Teaching Assistant for Prof. Kyoo il Kim<br>**Terms:** Fall 2025
+
+### EC 821A — Advanced Econometrics I
+**Role:** Teaching Assistant for Prof. Jeffrey Wooldridge<br>**Terms:** Fall 2026
+
+---
+
 ## Undergraduate
 
 ### EC 202 — Introduction to Macroeconomics
@@ -19,15 +32,3 @@ author_profile: true
 ### EC 480 — Analysis of Labor Markets
 **Role:** Teaching Assistant for Prof. Todd Elder<br>**Terms:** Fall 2024, Fall 2026<br>
 
----
-
-## Graduate
-
-### EC 812B — Microeconomics II
-**Role:** Teaching Assistant for Prof. Hanzhe Zhang<br>**Terms:** Spring 2024
-
-### EC 820A — Econometrics IA
-**Role:** Teaching Assistant for Prof. Kyoo il Kim<br>**Terms:** Fall 2025
-
-### EC 821A — Advanced Econometrics I
-**Role:** Teaching Assistant for Prof. Jeffrey Wooldridge<br>**Terms:** Fall 2026
