@@ -12,11 +12,8 @@ main:
     url: /research/
 
     
-  - title: "CV"
+  - title: "CV / Resume"
     url: /cv/
-        
-  - title: "Resume"
-    url: /resume/
  
   - title: "Teaching"
     url: /teaching/    
