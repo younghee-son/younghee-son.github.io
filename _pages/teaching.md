@@ -29,6 +29,9 @@ author_profile: true
 ### EC 420 — Introduction to Econometric Methods
 **Role:** Teaching Assistant for Prof. Justin Kirkpatrick<br> **Terms:** Fall 2023<br>
 
+### EC 422 - Advanced Data Analysis in Economics
+**Role:** Teaching Assistant for Prof. Steven Haider<br> **Terms:** Spring 2026<br>
+
 ### EC 480 — Analysis of Labor Markets
 **Role:** Teaching Assistant for Prof. Todd Elder<br>**Terms:** Fall 2024, Fall 2026
 
